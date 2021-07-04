@@ -2,9 +2,9 @@
 
 <h1 align="center">👋 Hey, I am leoxsys</h1>
 
-- I’m currently working on Motorola Moto G5 Plus and Xiaomi Redmi 8 Seiries 
+- I’m currently working on Motorola Moto G5 Plus 
 - You can get my latest repos and trees here
-- Devices I develop - olives,potter
+- Devices I develop - potter
 - Too busy these days
 
 
