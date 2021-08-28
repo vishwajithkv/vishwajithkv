@@ -1,6 +1,6 @@
 <a href="https://sourceforge.net/projects/roji-builds/files/d"><img alt="Download Ashwin ROM builds" src="https://img.shields.io/sourceforge/dt/ashwin-rom-builds.svg" ></a>
 
-<h1 align="center">👋 Hey, I am leoxsys</h1>
+<h1 align="center">👋 Hello, folks. I am leoxsys</h1>
 
 - Maybe slow to respond 
 - You can get my old repos and trees here
