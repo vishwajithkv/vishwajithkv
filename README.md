@@ -2,10 +2,8 @@
 
 <h1 align="center">👋 Hey, I am leoxsys</h1>
 
-- I’m currently working on Motorola Moto G5 Plus 
 - Maybe slow to respond 
-- You can get my latest repos and trees here
-- Devices I develop - potter
+- You can get my old repos and trees here
 
 [![leoxsys Stats](https://github-readme-stats.vercel.app/api?username=leoxsys&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
