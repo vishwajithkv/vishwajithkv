@@ -1,5 +1,6 @@
 # Hi there! 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" width="60px">
+
 ---
 About Me:
 ---
