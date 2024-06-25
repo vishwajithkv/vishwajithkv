@@ -3,7 +3,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width ="570px">
 </p>
 
-<h1 align="center">About Me!</h1>
+<h2 align="center">About Me!</h2>
 <p align="center" style="text-align: center;">
 <ul>
       <li>I'm a beginner 
@@ -14,7 +14,7 @@
 </ul>
 </p>
 
-<h1 align="center">My Github Stats</h1>
+<h2 align="center">My Github Stats</h2>
 
 ![vishwajithkv's github stats](https://github-readme-stats.vercel.app/api?username=vishwajithkv&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajithkv&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
