@@ -1,12 +1,14 @@
 <h1 align = "center">Hi there! Welcome to my Github.</h1>
-<img align= "center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width ="570px">
+<p align = "center">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width ="570px">
+</p>
 
----
+
 About Me:
 ---
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
+<p align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"></p>
 - I'm a beginner 
-      <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - I might be slow to respond.
 - You can get my trees for Moto G5 Plus(potter) here.
 - I built a functional website using Css,Js and Html.
