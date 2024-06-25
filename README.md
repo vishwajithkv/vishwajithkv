@@ -4,12 +4,16 @@
 </p>
 
 <h1 align="center">About Me:</h1>
+<p align="center">
+<ul style="display: inline-block;">
+      <li>I'm a beginner 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
+      <li>I might be slow to respond.</li>
+      <li>You can get my trees for Moto G5 Plus(potter) here.</li>
+      <li>I built a functional website using CSS, JS and HTML.</li>
+</ul>
+</p>
 
-- I'm a beginner 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- I might be slow to respond.
-- You can get my trees for Moto G5 Plus(potter) here.
-- I built a functional website using CSS, JS and HTML.
 ---
 My Github Stats:
 ---
