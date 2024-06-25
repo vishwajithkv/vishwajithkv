@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">About Me:</h1>
-<p align="center">
+<p align="center" style="text-align: center;">
 <ul>
       <li>I'm a beginner 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
