@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">About Me:</h1>
----
+
 - I'm a beginner 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - I might be slow to respond.
