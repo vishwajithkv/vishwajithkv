@@ -1,14 +1,15 @@
-# Hi there! 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" width="590px">
+<h1 align = "center">Hi there! Welcome to my Github.</h1>
+<img align= "center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width ="570px">
 
 ---
 About Me:
 ---
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
-- I'm a learner 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- Maybe slow to respond
-- you can get my old repos and trees here
+- I'm a beginner 
+      <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
+- I might be slow to respond.
+- You can get my trees for Moto G5 Plus(potter) here.
+- I built a functional website using Css,Js and Html.
 ---
 My Github Stats:
 ---
