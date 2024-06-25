@@ -3,7 +3,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width ="570px">
 </p>
 
----
+
 About Me:
 ---
 - I'm a beginner 
