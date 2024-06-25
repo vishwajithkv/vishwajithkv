@@ -3,8 +3,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width ="570px">
 </p>
 
-
-About Me:
+<h1 align="center">About Me:</h1>
 ---
 - I'm a beginner 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
