@@ -4,7 +4,7 @@
        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="570px">
 </p>
 
-About Me!
+## About Me!
 <p align="center">
 <ul>
       <li>I'm a beginner 
